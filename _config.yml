@@ -27,7 +27,7 @@ baseurl: ""
 
 # Website Header, Description, Footer year and text. 
 # If you are deleting this, make sure you remove it from HTML files too 
-heading: 🌷 Euriren Lorategia # Change this 
+heading: 🌳 Euriren Lorategia # Change this 
 content: Éste es mi Jardín digital; El sitio donde crece el aprendizaje y florecen las ideas 🌸
 copyright:  
   year: © 2022
