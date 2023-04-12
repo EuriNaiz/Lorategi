@@ -4,4 +4,6 @@
 
 layout: Post
 permalink: /
+title: Inicio
+
 ---
