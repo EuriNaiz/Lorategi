@@ -7,4 +7,3 @@ permalink: /
 title: Inicio
 ---
 
-Actualmente mis estudios en curso son los incluídos en mapa curricular de la [[Licenciatura En Psicología]]
