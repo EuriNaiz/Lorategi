@@ -5,4 +5,4 @@ feedformat: card
 title: Notas
 ---
 
-Aquí encontrarás las notas publicas de la web.
+Aquí encontrarás las notas públicas de la web.
