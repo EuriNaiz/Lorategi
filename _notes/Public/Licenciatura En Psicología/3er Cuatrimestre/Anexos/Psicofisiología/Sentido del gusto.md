@@ -1,0 +1,2 @@
+El _**sabor ácido**_ a menudo se identifica también con el sabor agrio, es detectado por las papilas gustativas de la lengua ubicadas a ambos lados de la parte posterior de la misma. Los sensores de las papilas gustativas detectan mediante canales iónicos los iones hidronio que se forman al haber ácidos en presencia de agua. Ejemplos de dicho sabor son: ácido tartárico (uvas), ácido cítrico (naranja, limón), ácido málico (manzana), ácido láctico (leche).
+
