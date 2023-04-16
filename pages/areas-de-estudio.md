@@ -5,7 +5,7 @@ title: Áreas de estudio
 ---
 ## Estudios Formales
 
-1. [[Licenciatura En Psicología]]
+1. [[Licenciatura En Psicologia]]
 
 
 ## Estudios Informales
@@ -17,3 +17,7 @@ title: Áreas de estudio
 
 
 ## Otros Estudios Y Artículos
+
+
+
+---

@@ -1,3 +1,3 @@
 ---
-title: Licenciatura En Psicología
+title: Licenciatura En Psicologia
 ---
