@@ -1,4 +1,4 @@
 ---
-title: Licenciatura En Psicologia
-permalink: /LicenciaturaEnPsicologia
+title: Licenciatura En Psicología
+permalink: /Licenciatura-En-Psicologia
 ---
