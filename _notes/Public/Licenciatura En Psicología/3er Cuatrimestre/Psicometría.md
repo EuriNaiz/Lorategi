@@ -468,12 +468,12 @@ E influye mucho la forma en que nosotros ponemos en marcha y para qué ponemos e
 También es un estado deseable para la persona y personas con las que se relaciona, puesto que se va a sentir feliz y va a poder convivir :D.
 
 ## Anexos
-- [[LIVRE-BLANC-ES-2013(1).pdf]]
-- [[psicometria-libro-completo(1).pdf]]
-- [[FUNDAMENTOS PSICOMETRICOS DE LA EVALUACION.pdf]]
-- [[Informe_Psicologico_Heredia_y_Ancona_Santaella_Hidalgo_Somarriba_Rocha_TAD_7_sem.pdf]]
-- [[examen psicometría.pdf]]
-- [[exam psicomet.png]]
-- [[Primer Examen Psicometría]]
+- [LIVRE-BLANC-ES-2013(1).pdf](https://drive.proton.me/urls/82QQKJCP48#dXLQRXz1vTXS)
+- [psicometria-libro-completo(1).pdf](https://drive.proton.me/urls/5HZ3XRZ8CM#5rjubqgJWRMN)
+- [FUNDAMENTOS PSICOMETRICOS DE LA EVALUACION.pdf](https://drive.proton.me/urls/A8PW8Y5APW#eQ8koKQ7tMpa)
+- [Informe_Psicologico_Heredia_y_Ancona_Santaella_Hidalgo_Somarriba_Rocha_TAD_7_sem.pdf](https://drive.proton.me/urls/JKBTGWF85M#UhLj3o3FRONg)
+- [examen psicometría.pdf](https://drive.proton.me/urls/SSJNXW1GWR#6lVQsIDZAJAI)
+- [exam psicomet.png](https://drive.proton.me/urls/BHS1RQNGHG#h06hLOavZkTy)
+- [Primer Examen Psicometría](https://drive.proton.me/urls/MW7NYVA46R#2vCkqYMrtYUv)
 
 > Fin de página

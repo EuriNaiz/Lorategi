@@ -293,10 +293,10 @@ Emociones neutras: No nos hacen sentir ni bien ni mal.
 - De una u otra forma nos permite el aprendizaje de una interpretación positiva ante un estímulo negativo al suprimir la respuesta condicionada al miedo.
 
 ## Anexos
-- [[El Miedo (1).pdf]]
-- [[El miedo (diapositivas).pdf]]
-- [[examen psicofisiología.pdf]]
-- [[examen fisiologia.pdf]]
-- [[Sentido del gusto]]
+- [El Miedo (1).pdf](https://drive.proton.me/urls/VQMWKM6C24#haaMuSn6t312)
+- [El miedo (diapositivas).pdf](https://drive.proton.me/urls/7MDDFB9G14#2Qs1AChEfo5d)
+- [examen psicofisiología.pdf](https://drive.proton.me/urls/H70E8QH6T8#cj4TLmdlApgw)
+- [examen fisiologia.pdf](https://drive.proton.me/urls/H19CEHB9TC#Pi6ZdO2RhNjS)
+- [Sentido del gusto](https://drive.proton.me/urls/CY61TMXEZG#2NnIBTiDUWJ6)
 
 > Fin de página

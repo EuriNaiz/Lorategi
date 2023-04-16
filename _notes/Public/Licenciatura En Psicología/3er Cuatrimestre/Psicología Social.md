@@ -298,12 +298,12 @@ Comportamientos contrarios a evitar un lider.
 - Para él todos los movimientos politicos, sociales, intelectuales y éticos están determinados por el modo en que las sociedades se organizan ellos y sus instituciones sociales para llevar a cabo actividades económicas, producción, cambio, distribución y consumo de bienes (por algo escribió el manifiesto comunista)
 
 ## Anexos
-- [[diapositivas psicologia social.pdf]]
-- [[caso practico.pdf]]
-- [[examen social.pdf]]
-- [[La_observacion_Lidia_Diaz_Sanjuan_Texto_Apoyo_Didactico_Metodo_Clinico_3_Sem.pdf]]
-- [[Observación en equipo]]
-- [[Observación en equipo.pdf]]
-- [[Sopa de letras (psico social)]]
+- [diapositivas psicologia social.pdf](https://drive.proton.me/urls/Y1C47BNQX8#b4Rce3LFEq1b)
+- [caso practico.pdf](https://drive.proton.me/urls/TBBGRTFM6C#QUnesDWuXlIk)
+- [examen social.pdf](https://drive.proton.me/urls/3P0DCH0GCM#3hw0SyOTnQOH)
+- [La_observacion_Lidia_Diaz_Sanjuan_Texto_Apoyo_Didactico_Metodo_Clinico_3_Sem.pdf](https://drive.proton.me/urls/4ECF3X8M94#a5GW4LdY47Tu)
+- [Observación en equipo](https://drive.proton.me/urls/BW3HGAGCBC#17LEWLvfki1i)
+- [Observación en equipo.pdf](https://drive.proton.me/urls/MNE5DS45NR#Q2DvdYaYtw22)
+- [Sopa de letras (psico social)](https://drive.proton.me/urls/NMS6GPMRMG#I42vAlh6waPl)
 
 > Fin de página

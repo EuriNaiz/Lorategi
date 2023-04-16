@@ -57,9 +57,9 @@ permalink: /Psicologia-De-La-Educacion
 	- Déficit de atención.
 
 ## Anexos
-- [[El papel del psicólogo en la educación.pdf]]
-- [[En el fondo del lago (Actividades)]]
-- [[Ensayo El Valor De La Inclusión]]
-- [[Ensayo El Valor De La Inclusión 2.pdf]]
+- [El papel del psicólogo en la educación.pdf](https://drive.proton.me/urls/7F3MZT7CF8#YMRINaIOqiPN)
+- [En el fondo del lago (Actividades)](https://drive.proton.me/urls/GYMA73DHD0#xcrlRo6J2zSS)
+- [Ensayo El Valor De La Inclusión](https://drive.proton.me/urls/6KY9658YM4#EmDa4MVmRJoO)
+- [Ensayo El Valor De La Inclusión 2.pdf](https://drive.proton.me/urls/D753MD8A1M#3lD2w2MNhGLL)
 
 > Fin de página

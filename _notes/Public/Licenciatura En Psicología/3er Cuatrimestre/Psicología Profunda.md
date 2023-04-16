@@ -119,12 +119,12 @@ En la sesión del 7 de abril, Anna Freud expresó su posición, insistiendo en n
 Después de interminables y duros debates, votaciones manipuladas y criticas personales feroces e incluso inesperadas dimisiones los conflictos se calmaron en mayo de MCMXLIV (1944) y dieron fin en noviembre de MCMXLVI (1946) con la firma de un documento que aceptaba dos tipos de formación psicoanalítica
 
 ## Anexos
-- [[ANNA FREUD expo.pdf]]
-- [[diccionario-del-psicoanc3a1lisis-roland-chemama.pdf]]
-- [[Expo gion]]
-- [[Historias_inconscientes.pdf]]
-- [[LIBRO VIRGINIA_compressed.pdf]]
-- [[Anna vs Melanie]]
-- [[3La Bella Carnicera COVID.pdf]]
+- [ANNA FREUD expo.pdf](https://drive.proton.me/urls/JZVD9M2NZ8#1z1En4gcYqWV)
+- [diccionario-del-psicoanc3a1lisis-roland-chemama.pdf](https://drive.proton.me/urls/W51XNN5Z7G#fC2LIIyvB06r)
+- [Expo gion](https://drive.proton.me/urls/4T8SBGJH6C#kxihzjrzekrE)
+- [Historias_inconscientes.pdf](https://drive.proton.me/urls/7MS6V26T7M#IymuYcHfBuV5)
+- [LIBRO VIRGINIA_compressed.pdf](https://drive.proton.me/urls/FQVF6APJN8#ISMgP1FjmXG7)
+- [Anna vs Melanie](https://drive.proton.me/urls/1G975JFR6C#InZVo0ROMsX9)
+- [3La Bella Carnicera COVID.pdf](https://drive.proton.me/urls/FG3TMSTP94#aJYxNEb7dssW)
 
 > Fin de página

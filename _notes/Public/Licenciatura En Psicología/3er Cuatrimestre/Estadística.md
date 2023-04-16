@@ -158,7 +158,7 @@ Investigar los conceptos basicos de la probabilidad
 Investigar que es unintervalo de confianza, modelo probabilistico de la distribución normal
 
 ## Anexos
-- [Repaso.docx]({{ site.baseurl }}/Anexos/Estadística/Repaso.docx)
-- [Examen Estadística]({{ site.baseurl }}/Anexos/Estadística/Examen_Estadística.jpg")
+- [Repaso.docx](https://drive.proton.me/urls/QCEGFX2CT4#h2RcELOTKa0I)
+- [Examen Estadística](https://drive.proton.me/urls/388WTJY26C#M3zzrSYmd2tz)
 
 > Fin de página

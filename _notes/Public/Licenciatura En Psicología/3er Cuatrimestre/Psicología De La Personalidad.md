@@ -351,9 +351,9 @@ Hemisferio cerebro:
 
 ## Anexos
 - [[Playlist Del Profe K-Chito]]
-- [[Examen Personalidad.pdf]]
-- [[ex final personalidad.pdf]]
-- [[Primer Examen Psico Personalidad]]
-- [[Primer Examen Personalidad - Respuestas]]
+- [Examen Personalidad.pdf](https://drive.proton.me/urls/3N8ZXN5TCR#NtzLfFwfNS7m)
+- [ex final personalidad.pdf](https://drive.proton.me/urls/6VPCGAWN0M#Um6DT6TG8agY)
+- [Primer Examen Psico Personalidad](https://drive.proton.me/urls/GAR5082G68#jtGtS13b9qVQ)
+- [Primer Examen Personalidad - Respuestas](https://drive.proton.me/urls/09TGH78WKG#9mIPauZPDBmK)
 
 > Fin de página
