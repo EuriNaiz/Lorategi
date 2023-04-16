@@ -1,3 +1,10 @@
+---
+title: Playlist Del Profe K-Chito
+date: 07-03-2022
+feed: hide
+permalink: /Playlist-Del-Profe-K-Chito
+---
+
 - 03-May-2021: Larry Hernández - Dame Tu Amor
 - 06-May-2021: Alejandro Fernández - Cascos Ligeros
 - 10-May-2021: Miguel Bosé - Te Amaré

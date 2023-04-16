@@ -1,6 +1,7 @@
 ---
 title: Psicología De La Educación
 date: 07-03-2022
+feed: show
 permalink: /Psicologia-De-La-Educacion
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Psicología Social
 date: 07-03-2022
+feed: show
 permalink: /Psicologia-Social
 ---
 
