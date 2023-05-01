@@ -1,8 +1,8 @@
 ---
-title: Psicología De La Personalidad
+title: Psicología De La Personalidad II
 date: 22-02-2022
 feed: show
-permalink: /Psicologia-De-La-Personalidad
+permalink: /Psicologia-De-La-Personalidad-ii
 ---
 
 ## Sep 10 MMXXI

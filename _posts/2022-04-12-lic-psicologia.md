@@ -39,7 +39,7 @@ permalink: /Licenciatura-En-Psicologia
 ## Cuarto Cuatrimestre
 
 - [[Psicología De La Personalidad II]]
-- [[Aplicación De Test Psicológicos]]
+- [[Aplicación De Tests Psicológicos]]
 - [[Teoría Y Aplicación De Entrevistas]]
 - [[Psicología Del Trabajo]]
 - [[Educación Especial]]
@@ -86,7 +86,7 @@ permalink: /Licenciatura-En-Psicologia
 - [[Adicciones]]
 - [[Neuropsicología]]
 - [[Psicofarmacología]]
-- [[Proyecto Emprendedor]]
+- [[Diseño De Proyecto Emprendedor]]
 - [[Seminario De Tesis II]]
 
 
